@@ -1,0 +1,5 @@
+This is a tool for encrypting breakpad .sym files. This tool allows Mozilla
+crash-stats to walk the stack and publish some information about crash buckets
+and trends, without exposing proprietary file or function names to the public.
+
+For more information, see https://developer.mozilla.org/en-US/docs/Crash_Reporting_Guide_for_Firefox_OS_Partners
